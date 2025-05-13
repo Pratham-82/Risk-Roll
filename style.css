@@ -267,7 +267,7 @@ h2 {
     font-size: 30%;
   }
 }
-@media (max-height: 550px) {
+@media (max-height: 350px) {
   html {
     font-size: 25%;
   }
